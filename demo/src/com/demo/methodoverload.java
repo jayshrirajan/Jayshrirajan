@@ -17,6 +17,7 @@ ml.add(3);
 ml.add(3,8);
 ml.add(300,400,500);
 
+
 	
 }
 
@@ -39,6 +40,7 @@ public class methodoverload{
 		m.mul(10,20);
 		m.mul(50,30,20);
 System.out.println("method overloading");
+
 		
 	}
 }
