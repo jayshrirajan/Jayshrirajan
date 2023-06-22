@@ -38,6 +38,7 @@ public class methodoverload{
 		m.mul(3);
 		m.mul(10,20);
 		m.mul(50,30,20);
+System.out.println("method overloading");
 		
 	}
 }
